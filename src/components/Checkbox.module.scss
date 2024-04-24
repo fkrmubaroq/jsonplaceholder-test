@@ -1,0 +1,15 @@
+
+.input-checkbox  {
+  + div > div {
+    @apply hidden;
+  }
+
+  &:checked{
+    ~ div {
+      @apply bg-blue-600 border-blue-600;
+    }
+    ~ div > div {
+      @apply block
+    }
+  }
+}
