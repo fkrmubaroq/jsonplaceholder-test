@@ -21,7 +21,7 @@ export const getStaticProps = wrapper.getStaticProps((store) => async () => {
 
   return {
     props: {},
-    revalidate: 10,
+    revalidate: 30,
   
   };
 });
