@@ -42,7 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Screenshoots
 
 ### Server Side Rendering(SSR) Page
-<img src="https://github.com/fkrmubaroq/jsonplaceholder-test/blob/main/screenshoots/ssr.png" width="500" style="margin:auto"/>
+<img src="https://github.com/fkrmubaroq/jsonplaceholder-test/blob/main/screenshoots/ssr.png" width="800"/>
 
 ### Incremental Static Regeneration(ISR) Page
-<img src="https://github.com/fkrmubaroq/jsonplaceholder-test/blob/main/screenshoots/ssr.png" width="500" style="margin:auto"/>
+<img src="https://github.com/fkrmubaroq/jsonplaceholder-test/blob/main/screenshoots/isr.png" width="800"/>
